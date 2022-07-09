@@ -1,3 +1,5 @@
+//2022 2학년 1학기
+
 #include"hnleeGame.h"
 #include <crtdbg.h>
 #include <iostream>
